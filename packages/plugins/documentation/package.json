@@ -1,5 +1,5 @@
 {
-  "name": "@strapi/plugin-documentation",
+  "name": "@zhishijian/plugin-documentation",
   "version": "4.0.5",
   "description": "Create an OpenAPI Document and visualize your API with SWAGGER UI.",
   "repository": {
